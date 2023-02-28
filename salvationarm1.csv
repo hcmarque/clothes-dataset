@@ -1,0 +1,101 @@
+Clothing ID,Type of Clothes,For Men or Women,Size,Fabric Type,Fabric weight,Seam finish,Stitch length,Button quality,Grain alignment,Quality,Price
+1,Shirt,Men,S,Flannel,8 oz,Flat-felled,3 mm,Good,Straight,Very Good,29.99
+2,Pants,Men,L,Demin,12 oz,Overcast,3.5 mm,Good,Straight,Very Good,49.99
+3,Blouse,Women,XXL,Silk,6 oz,Serged,2 mm,Excellent,Straight,Excellent,99.99
+4,Dress,Women,L,Cotton,10 oz,French seam,3.5 mm,Excellent,Straight,Excellent,59.99
+5,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+6,Jeans,Men,XXL,Demin,16 oz,Flat-felled,4 mm,Excellent,Straight,Very Good,89.99
+7,Sweater,Women,S,Wool,12 oz,Overcast,3 mm,Good,Off-grain,Fair,39.99
+8,Skirt,Women,M,Linen,8 oz,Serged,2 mm,Good,Straight,Very Good,29.99
+9,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+10,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+11,Trousers,Men,L,Gabardine,10 oz,Overcast,3 mm,Good,Straight,Very Good,49.99
+12,Tank Top,Women,S,Jersey,5 oz,Overcast,2 mm,Fair,Off-grain,Fair,9.99
+13,Button-Down,Men,XL,Chambray,9 oz,French seam,3.5 mm,Good,Straight,Very Good,39.99
+14,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+15,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+16,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+17,Polo Shirt,Men,S,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+18,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+19,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+20,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+21,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+22,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+23,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+24,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+25,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+26,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+27,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+28,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+29,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+30,Polo Shirt,Men,S,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+31,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+32,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+33,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+34,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+35,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+36,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+37,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+38,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+39,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+40,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+41,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+42,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+43,Polo Shirt,Men,L,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+44,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+45,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+46,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+47,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+48,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+49,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+50,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+51,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+52,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+53,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+54,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+55,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+56,Polo Shirt,Men,L,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+57,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+58,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+59,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+60,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+61,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+62,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+63,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+64,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+65,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+66,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+67,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+68,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+69,Polo Shirt,Men,L,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+70,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+71,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+72,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+73,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+74,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+75,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+76,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+77,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+78,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+79,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+80,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+81,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+82,Polo Shirt,Men,L,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+83,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+84,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+85,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+86,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+87,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
+88,Skirt,Women,L,Silk,7 oz,Serged,2 mm,Good,Straight,Very Good,39.99
+89,T-Shirt,Men,M,Jersey,6 oz,Overcast,2.5 mm,Fair,Straight,Good,14.99
+90,Shorts,Men,L,Cotton,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,19.99
+91,Blouse,Women,M,Satin,5 oz,Serged,2 mm,Excellent,Straight,Excellent,79.99
+92,Dress Shirt,Men,S,Poplin,7 oz,Flat-felled,2.5 mm,Fair,Off-grain,Fair,19.99
+93,Blazer,Women,S,Wool,14 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,119.99
+94,Maxi Dress,Women,XL,Rayon,7 oz,Serged,2 mm,Good,Straight,Very Good,59.99
+95,Polo Shirt,Men,L,Jersey,7 oz,Overcast,2.5 mm,Fair,Straight,Good,17.99
+96,Sweatpants,Men,XXL,Fleece,14 oz,Overcast,3.5 mm,Good,Off-grain,Fair,29.99
+97,Blouse,Women,M,Cotton,6 oz,French seam,2.5 mm,Excellent,Straight,Excellent,49.99
+98,Cargo Pants,Men,L,Cotton,10 oz,Serged,3 mm,Good,Straight,Very Good,39.99
+99,Wrap Dress,Women,S,Chiffon,5 oz,Serged,2 mm,Excellent,Straight,Excellent,89.99
+100,Hoodie,Men,XXL,Fleece,12 oz,Overcast,3.5 mm,Good,Off-grain,Fair,49.99
