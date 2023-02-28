@@ -1,0 +1,101 @@
+Clothing ID,Fabric Type,Fabric weight,Seam finish,Stitch length,Button quality,Grain alignment,Quality,Price
+1001,Cotton,9 oz,Serged,2.5 mm,Good,Straight,Excellent,25.99
+1002,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,45.99
+1003,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,15.99
+1004,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,20.99
+1005,Silk,14 oz,French seam,3.5 mm,Excellent,Straight,Excellent,75.99
+1006,Cotton,10 oz,Overcast,2.5 mm,Good,Straight,Very Good,30.99
+1007,Wool,16 oz,Flat-felled,4 mm,Excellent,Straight,Excellent,89.99
+1008,Linen,10 oz,Serged,2.5 mm,Good,Off-grain,Fair,35.99
+1009,Polyester,7 oz,Overcast,2 mm,Fair,Straight,Good,12.99
+1010,Acrylic,9 oz,Serged,2 mm,Good,Straight,Very Good,22.99
+1011,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1012,Silk,15 oz,Flat-felled,4 mm,Excellent,Straight,Very Good,59.99
+1013,Linen,9 oz,Serged,2 mm,Good,Straight,Good,29.99
+1014,Wool,14 oz,Overcast,3 mm,Excellent,Straight,Excellent,79.99
+1015,Polyester,8 oz,Serged,2.5 mm,Good,Off-grain,Fair,18.99
+1016,Acrylic,7 oz,Flat-felled,2 mm,Good,Straight,Good,14.99
+1017,Cotton,12 oz,Overcast,2.5 mm,Good,Straight,Very Good,33.99
+1018,Silk,13 oz,Serged,3 mm,Excellent,Straight,Very Good,49.99
+1019,Linen,11 oz,French seam,3.5 mm,Excellent,Straight,Excellent,55.99
+1020,Wool,15 oz,Flat-felled,4 mm,Excellent,Straight,Very Good,69.99
+1021,Polyester,6 oz,Serged,2 mm,Fair,Off-grain,Fair,11.99
+1022,Acrylic,8 oz,Overcast,2.5 mm,Good,Straight,Fair,19.99
+1023,Cotton,9 oz,Flat-felled,3 mm,Good,Straight,Good,24.99
+1024,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,69.99
+1025,Linen,10 oz,Overcast,2.5 mm,Good,Straight,Fair,32.99
+1026,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,85.99
+1027,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1028,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,21.99
+1029,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,38.99
+1030,Linen,9 oz,Overcast,2 mm,Good,Off-grain,Fair,27.99
+1031,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,87.99
+1032,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,55.99
+1033,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,18.99
+1034,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
+1035,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,34.99
+1036,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,48.99
+1037,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,76.99
+1038,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,72.99
+1039,Acrylic,7 oz,Flat-felled,2 mm,Good,Straight,Good,15.99
+1040,Polyester,8 oz,Serged,2.5 mm,Good,Straight,Fair,19.99
+1041,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1042,Linen,10 oz,Overcast,2.5 mm,Good,Off-grain,Fair,32.99
+1043,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,88.99
+1044,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,56.99
+1045,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,22.99
+1046,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1047,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,35.99
+1048,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,49.99
+1049,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,77.99
+1050,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,73.99
+1051,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,19.99
+1052,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
+1053,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1054,Linen,10 oz,Overcast,2.5 mm,Good,Off-grain,Fair,32.99
+1055,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,88.99
+1056,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,56.99
+1057,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,22.99
+1058,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1059,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,35.99
+1060,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,49.99
+1061,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,77.99
+1062,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,73.99
+1063,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,19.99
+1064,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
+1065,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1066,Linen,10 oz,Overcast,2.5 mm,Good,Off-grain,Fair,32.99
+1067,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,88.99
+1068,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,56.99
+1069,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,22.99
+1070,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1071,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,35.99
+1072,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,49.99
+1073,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,77.99
+1074,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,73.99
+1075,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,19.99
+1076,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
+1077,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1078,Linen,10 oz,Overcast,2.5 mm,Good,Off-grain,Fair,32.99
+1079,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,88.99
+1080,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,56.99
+1081,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,22.99
+1082,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1083,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,35.99
+1084,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,49.99
+1085,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,77.99
+1086,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,73.99
+1087,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,19.99
+1088,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
+1089,Cotton,11 oz,French seam,3 mm,Excellent,Straight,Excellent,39.99
+1090,Linen,10 oz,Overcast,2.5 mm,Good,Off-grain,Fair,32.99
+1091,Wool,16 oz,Serged,4 mm,Excellent,Straight,Excellent,88.99
+1092,Silk,13 oz,Flat-felled,3.5 mm,Excellent,Straight,Very Good,56.99
+1093,Acrylic,9 oz,Serged,2.5 mm,Good,Straight,Very Good,22.99
+1094,Polyester,7 oz,Flat-felled,2.5 mm,Fair,Straight,Good,13.99
+1095,Cotton,12 oz,Serged,2.5 mm,Good,Straight,Very Good,35.99
+1096,Linen,12 oz,Flat-felled,3 mm,Excellent,Straight,Very Good,49.99
+1097,Wool,15 oz,Overcast,3.5 mm,Excellent,Straight,Excellent,77.99
+1098,Silk,14 oz,Serged,3.5 mm,Excellent,Straight,Excellent,73.99
+1099,Acrylic,8 oz,Serged,2 mm,Good,Straight,Fair,19.99
+1100,Polyester,6 oz,Overcast,2 mm,Fair,Off-grain,Good,14.99
